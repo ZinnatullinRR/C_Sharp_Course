@@ -8,7 +8,7 @@ int NumDegree(int num1, int num2)
     for (int i = 1; i <= num2; i++)
     {
 
-        num_res = num_res* num1;
+        num_res = num_res * num1;
     }
 
     return num_res;
