@@ -11,8 +11,6 @@ int NumSum(int n)
     return count;
 
 }
-//Console.WriteLine("Введите число A");
-//Console.WriteLine(NumbSum(int.Parse(Console.ReadLine())));
 
 Console.WriteLine("Введите число");
 int n = int.Parse(Console.ReadLine());
